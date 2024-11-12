@@ -1,4 +1,3 @@
-// src/services/logService.js
 const LogModel = require('../models/logModel');
 
 const LogService = {
